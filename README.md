@@ -20,6 +20,12 @@ then you can run the following command:
 
 ```dotnet watch```
 
+[NOTE] If you do NOT have dotnet-ef installed, go to the following site:
+
+https://www.nuget.org/packages/dotnet-ef
+
+Copy the .NET CLI (Global) command and run it
+
 -------------------------------------------------------------------------------------------
 
 [NOTE] If Docker is not initialized, open the terminal at the root of the project and run:
