@@ -28,8 +28,9 @@ then you can run the following command:
 
 Expected result:
 
-```Network skinet_default  Created
-   Container skinet-sql-1  Started
+```
+Network skinet_default  Created
+Container skinet-sql-1  Started
 ```
 
 [NOTE] If running the above command results in an error, run the following commands (as Admin):
